@@ -6,7 +6,7 @@
     'category': 'Sales',
     'summary': 'Wizard to load payment reference into sale.order from Excel and choose whether to create the invoice directly.',
     'license': 'OPL-1',
-    'price': 9.90,
+    'price': 0,
     'currency': 'EUR',
     'description': """
 📑 Import Payment Reference from Excel
